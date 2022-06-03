@@ -3,10 +3,12 @@
 ```markdown
 Learning Objectives:
 
-1. Gain experience accessing your operating system's command line interface (CLI)
-2. Gain experience working with CLI commands
-3. Gain experience working with Visual Studio Code (VSCode)
-4. Gain experience writing and executing non-web server Node.js JavaScript code
+1. Gain experience accessing your operating system's 
+   command line interface (CLI)
+3. Gain experience working with CLI commands
+4. Gain experience working with Visual Studio Code (VSCode)
+5. Gain experience writing and executing non-web
+   server Node.js JavaScript code
 
 Overview: 
 
