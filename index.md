@@ -27,5 +27,8 @@ In this project I was introduced to VS Code and Terminal and learned different c
 
 ### Files from Project 1!
 
-[ss1]
+[ss1](p1-folders.png)
+[ss2](p1-tree.png)
+[ss3](p1-break.png)
+[ss4](p1-ping.png)
 
